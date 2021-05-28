@@ -1,0 +1,32 @@
+.div
+
+{
+
+    width: 1000px;
+   height: 100%;
+    border: 2px solid black;
+    text-align: justify;
+    margin: auto;
+    padding: 20px;
+    margin-top: 10px;
+}
+.data
+{
+    position: relative;
+    top: -160px;
+    left: 400px;
+}
+.div img
+{
+    margin-left: 20px;
+    margin-top: 40px;
+    padding-left: 40px;
+    width: 250px;
+    height:300px;
+    box-shadow: 2px 2px 2px grey;
+}
+.data p
+{
+    font-size: large;
+    font-weight: bolder;
+}

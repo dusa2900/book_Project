@@ -1,0 +1,10 @@
+.div
+{
+    border: 2px solid black;
+    color: rgb(153, 110, 223);
+    margin: auto;
+    margin-top: 40px;
+    width:1000px;
+    text-align: center;
+    overflow: hidden;
+}
